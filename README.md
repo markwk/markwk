@@ -6,6 +6,7 @@
 </p>
 
 * 📱 Head of Product and Full Stack Developer
+* 🔮 Creator/Builder of [Stay Reflective](https://stayreflective.com/) - focused on making reflection easier and better through reflection journeys and AI empowerment
 * 🏈 Currently at [Clock Foundation](https://clockfoundation.org/) / [MyAgingTests.com](https://myagingtests.com/) -  focused on epigenetics and DNA methylation of aging and longevity.
 * 📊 Fascinated by intersection of personal data and self-awareness/self-improvement.
 * 💻 I publish some [open source software on GitHub](https://github.com/markwk?tab=repositories) and [Drupal.org](https://www.drupal.org/u/markwk)
